@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bacteria1" type="string-array">
+        <item>Тест</item>
+        <item>@drawable/mini_borrelia_bacter</item>
+        <item>com.example.bactopedia.AzotBacterActivity</item>
+    </item>
+    <!-- Добавьте другие бактерии здесь -->
+</resources>
